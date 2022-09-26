@@ -1,4 +1,4 @@
-# Hungarian
+# Hungarian  algorithm 
 The Hungarian algorithm for the assignment problem computes the optimization matrix, the code has been optimized according to the relevant journals
 
 Please adjust the range and n value of the array in the global variable according to the order of the matrix before use.
