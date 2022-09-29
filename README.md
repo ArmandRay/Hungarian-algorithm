@@ -8,6 +8,7 @@ The input order is
 2. Input the number of matrix rows excluding the virtual matrix.
 3. The input does not include the number of matrix columns of the dummy matrix.
 4. Input square matrices (including virtual matrices)
+
 Make sure that the matrix you enter is the one you want to compute directly with the Hungarian algorithm
 ## References
 
